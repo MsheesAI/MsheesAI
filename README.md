@@ -6,10 +6,9 @@ Every project I work on is a step forward in my mission to combine creativity wi
 
 ---
 
-## 🛠️ Tools I Use  
+## 🛠️ Languages and Tools
 
 Here are some of the key tools and technologies I actively use in my learning and projects:
-## 🛠️ Tools I Use  
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,7 +25,7 @@ Here are some of the key tools and technologies I actively use in my learning an
 
 I am always eager to learn **new technologies, frameworks, and AI tools**, and I love experimenting with them in fun and challenging projects.  
 
-Let's connect, collaborate, and build amazing things together! 🌟
+Let's build amazing things together! 🌟
 
 
 
