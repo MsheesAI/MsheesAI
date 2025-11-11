@@ -9,19 +9,18 @@ Every project I work on is a step forward in my mission to combine creativity wi
 ## 🛠️ Tools I Use  
 
 Here are some of the key tools and technologies I actively use in my learning and projects:
+## 🛠️ Tools I Use  
 
-| Tool | Logo |
-|------|------|
-| HTML | ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) |
-| CSS | ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) |
-| JavaScript | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
-| Python | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) |
-| Postman | ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) |
-| Notion | ![Notion](https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png) |
-| ChatGPT | ![ChatGPT](https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg) |
-| Claude | ![Claude](https://upload.wikimedia.org/wikipedia/commons/f/fd/Anthropic_logo.svg) |
-| Git | ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) |
-| GitHub | ![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg) |
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-ff9800?style=for-the-badge&logo=anthropic&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
