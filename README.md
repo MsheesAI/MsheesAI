@@ -32,5 +32,5 @@ Let's build amazing things together! 🌟
 
 ---
 
-⭐ *"I’m not just learning to code — I’m learning to create, imagine, and build the future with technology."*
+⭐ *"I’m not just learning to code — I’m learning to create, imagine, and build the future with technology."* LOL
 
