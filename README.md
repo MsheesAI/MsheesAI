@@ -1,12 +1,10 @@
 # 🚀 Hi, I'm M.Shees!  
-
-I am a passionate learner, deeply curious about technology and innovation. My journey revolves around **Gen / Agentic AI**. I enjoy exploring new tools, solving problems, and building projects that challenge me to grow. Learning is my superpower, and I am constantly striving to enhance my skills, expand my knowledge, and make meaningful contributions to the tech community.  
+   I am a passionate learner, deeply curious about technology and innovation. My journey revolves around **Gen / Agentic AI**. I enjoy exploring new tools, solving problems,    and building projects that challenge me to grow. Learning is my superpower, and I am constantly striving to enhance my skills, expand my knowledge, and make meaningful       contributions to the tech community.  
 
 Every project I work on is a step forward in my mission to combine creativity with technology. I strongly believe that **practice, experimentation, and perseverance** are the keys to mastering any skill, and I am fully committed to this journey.
 
 ## 🛠️ Languages and Tools
-
- Here are some of the key tools and technologies I actively use in my learning and projects:
+  Here are some of the key tools and technologies I actively use in my learning and projects:
 
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-0A66C2?style=for-the-badge&logo=chainlink&logoColor=white">
@@ -28,9 +26,6 @@ I am always eager to learn **new technologies, frameworks, and AI tools**, and I
 
 Let's build amazing things together! 🌟
 
-
-
 ---
-
 ⭐ *"I’m not just learning to code — I’m learning to create, imagine, and build the future with technology."* LOL
 
