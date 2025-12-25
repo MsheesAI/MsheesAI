@@ -6,7 +6,7 @@ Every project I work on is a step forward in my mission to combine creativity wi
 
 ## 🛠️ Languages and Tools
 
- Here are some of the key tools and technologies I actively use in my learning and projects:
+ Here are some of the key tools and technologies I actively use in my learning and projects
 
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-0A66C2?style=for-the-badge&logo=chainlink&logoColor=white">
