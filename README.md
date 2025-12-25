@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm M.Shees!  
+# 🚀 Hi, I'm M.Shees
 
 I am a passionate learner, deeply curious about technology and innovation. My journey revolves around **Gen / Agentic AI**. I enjoy exploring new tools, solving problems, and building projects that challenge me to grow. Learning is my superpower, and I am constantly striving to enhance my skills, expand my knowledge, and make meaningful contributions to the tech community.  
 
