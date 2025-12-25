@@ -4,7 +4,7 @@ I am a passionate learner, deeply curious about technology and innovation. My jo
 
 Every project I work on is a step forward in my mission to combine creativity with technology. I strongly believe that **practice, experimentation, and perseverance** are the keys to mastering any skill, and I am fully committed to this journey.
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages and Tools !
 
  Here are some of the key tools and technologies I actively use in my learning and projects:
 
