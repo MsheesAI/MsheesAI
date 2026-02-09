@@ -16,12 +16,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  My name is Shees</h3>
+<h3 align="left">👩‍💻  My name is Shees </h3>
 
 ###
 
 <p align="left">I'm from pakistan<br><br>- 🔭 I’m working as Gen/agentic AI developer<br>- 📚 I'm currently learning  Data science<br> </p>
+<p>I am a passionate learner, deeply curious about technology and innovation. My journey revolves around **Gen / Agentic AI**. I enjoy exploring new tools, solving problems, and building projects that challenge me to grow. Learning is my superpower, and I am constantly striving to enhance my skills, expand my knowledge, and make meaningful contributions to the tech community.  
 
+Every project I work on is a step forward in my mission to combine creativity with technology. I strongly believe that **practice, experimentation, and perseverance** are the keys to mastering any skill, and I am fully committed to this journey.
+</p>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
