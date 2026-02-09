@@ -22,11 +22,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  My name is Shees</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm from pakistan<br><br>- 🔭 I’m working as Gen/agentic AI developer<br>- 📚 I'm currently learning  Data science<br> </p>
 
 ###
 
@@ -60,9 +60,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MshessAI&theme=dark" alt="GitHub Streak" />
+</p>
+
 
 ###
 
