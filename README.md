@@ -60,7 +60,10 @@
 
 ###
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadShees&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MshessAI&theme=dark" />
+</p>
+
 
 
 ###
