@@ -25,6 +25,7 @@
 
 Every project I work on is a step forward in my mission to combine creativity with technology. I strongly believe that **practice, experimentation, and perseverance** are the keys to mastering any skill, and I am fully committed to this journey.
 </p>
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -51,6 +52,16 @@ Every project I work on is a step forward in my mission to combine creativity wi
   <img src="https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=google&logoColor=white" />
 
 </div>
+
+I am always eager to learn **new technologies, frameworks, and AI tools**, and I love experimenting with them in fun and challenging projects.  
+#
+Let's build amazing things together! 🌟
+
+
+
+###
+
+⭐ *"I’m not just learning to code — I’m learning to create, imagine, and build the future with technology."* LOL
 
 
 
