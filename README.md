@@ -60,9 +60,7 @@
 
 ###
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MshessAI&theme=dark" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=MshessAI&theme=dark)
 
 
 ###
