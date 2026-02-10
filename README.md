@@ -25,12 +25,10 @@
 
 Every project I work on is a step forward in my mission to combine creativity with technology. I strongly believe that **practice, experimentation, and perseverance** are the keys to mastering any skill, and I am fully committed to this journey.
 </p>
-My github =<a href=https://github.com/MsheesAI>Github</a>  <br>
-My Instagram =<a href=https://www.instagram.com/lonely_dev12>Instagram</a> <br>
+My github =<a href=https://github.com/MsheesAI>Github</a>
 ---------------------
 or <br>
 My github = https://github.com/MsheesAI <br>
-My Instagram = https://www.instagram.com/lonely_dev12<br>
 
 ###
 
