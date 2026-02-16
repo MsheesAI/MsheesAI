@@ -55,8 +55,7 @@ My github =https://github.com/MsheesAI <br>
   <br/><br/>
 
   <!-- AI / Agentic Stack -->
-  
-![LangChain Logo](https://upload.wikimedia.org/wikipedia/commons/0/0f/LangChain_Logo.svg)
+  <img src="https://logo.svgcdn.com/simple-icons/langchain-dark.svg" width="60"/>
   <img src="https://img.shields.io/badge/LangSmith-111827?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-FF6F00?style=for-the-badge&logo=anthropic&logoColor=white" />
