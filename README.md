@@ -56,7 +56,7 @@ My github =https://github.com/MsheesAI <br>
 
   <!-- AI / Agentic Stack -->
   <img src="https://logo.svgcdn.com/simple-icons/langchain-dark.svg" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/OpenAI_Logo.svg" width="60"/>
+  <img src="https://logo.svgcdn.com/logos/openai.svg" width="60"/>
 
 </div>
 
