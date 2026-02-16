@@ -50,13 +50,8 @@ My github =https://github.com/MsheesAI <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
-
-
-  <br/><br/>
-
-  <!-- AI / Agentic Stack -->
   <img src="https://logo.svgcdn.com/simple-icons/langchain-dark.svg" width="60"/>
-![OpenAILogo](https://logo.svgcdn.com/logos/openai.svg)
+![OpenAILogo](https://logo.svgcdn.com/logos/openai.svg>
 
 </div>
 
