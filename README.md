@@ -55,7 +55,7 @@ I am always eager to learn **new technologies, frameworks, and AI tools**, and I
 #
 Let's build amazing things together! 🌟
 
-[![GitHub Streak](https://streak-stats.demolab.com)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MsheesAI)](https://git.io/streak-stats)
 
 
 
