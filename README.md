@@ -5,68 +5,25 @@
 ###
 
 
+# 💫 About Me:
+🚀 About Me<br><br>My name is Shees<br><br>I'm a young developer who loves building full stack web applications and experimenting with Agentic AI systems.<br>I enjoy learning new technologies, solving problems, and creating useful tools.<br><br>🔭 Currently working on AI agents and web apps<br><br>🧠 Learning more about AI, backend systems, and scalable apps<br><br>⚡ Love building projects and experimenting with new tech
 
 
+## 🌐 Socials:
+i dont currently have socials for this account
 
-###
+# 💻 Tech Stack:
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MsheesAI&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MsheesAI&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MsheesAI&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h3 align="center">hey there 👋</h3>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=MsheesAI&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">👩‍💻  My name is Shees </h3>
-
-###
-
-<p align="left">I'm from pakistan<br><br>- 🔭 I’m working as Gen/agentic AI developer<br>- 📚 I'm currently learning  Data science<br> </p>
-<p>I am a passionate learner, deeply curious about technology and innovation. My journey revolves around **Gen / Agentic AI**. I enjoy exploring new tools, solving problems, and building projects that challenge me to grow. Learning is my superpower, and I am constantly striving to enhance my skills, expand my knowledge, and make meaningful contributions to the tech community.  
-
-Every project I work on is a step forward in my mission to combine creativity with technology. I strongly believe that **practice, experimentation, and perseverance** are the keys to mastering any skill, and I am fully committed to this journey.
-</p> 
-✉️ :shees7795@gmail.com <br>
-My github =<a href=https://github.com/MsheesAI>Github</a>
----------------------
-or <br>
-My github =https://github.com/MsheesAI <br>
-
-###
-
-<h3 align="left">🛠 Language and Frameworks</h3>
-
-###
-
-<div align="left">
-
-  <!-- Languages & Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
-  <img src="https://logo.svgcdn.com/simple-icons/langchain-dark.svg" width="60"/>
-
-</div>
-
-I am always eager to learn **new technologies, frameworks, and AI tools**, and I love experimenting with them in fun and challenging projects.  
-#
-Let's build amazing things together! 🌟
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MsheesAI&theme=dark)](https://git.io/streak-stats)
-
-
-
-###
-
-⭐ *"I’m not just learning to code — I’m learning to create, imagine, and build the future with technology."* LOL
-
-
-
-
-
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
