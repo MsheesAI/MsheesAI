@@ -8,7 +8,9 @@
 # 💫 About Me:
 🚀 About Me<br><br>My name is Shees<br><br>I'm a young developer who loves building Generative AI APPs and experimenting with Agentic AI systems.<br>I enjoy learning new technologies, solving problems, and creating useful tools.<br><br>🔭 Currently working on AI agents and web apps<br><br>🧠 Learning more about AI, backend systems, and scalable apps<br><br>⚡ Love building projects and experimenting with new tech<br><br>In Short i am Generative AI Developer 
 
-Generatve AI | LLMS | NLP | Developer | Python | Lang-graph | Agentic-ai | CrewAI | Spec-Kit 
+Generatve AI | LLMS | NLP | Developer | Python | Lang-graph | Agentic-ai | CrewAI | Spec-Kit | AI Developer | Python | LangChain | RAG Systems  
+Building Agentic AI Applications 🚀  
+Open Source Learner | GenAI
 
 
 ## 🌐 Socials:
