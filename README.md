@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=MsheesAI&style=flat-square)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MsheesAI.repo_name&countColor=blue&style=flat-square&badge_text=Visitors&initCount=164)
 <div align="center">
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ1c3VpdW4zYmhxcnVuNGxuc2syMzQ1cmN0N3V5dmJnOGl6ejdjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9az09tlYyYNfq/giphy.gif"  />
   
