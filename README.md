@@ -17,6 +17,7 @@ Open Source Learner | GenAI
 
 ## 🌐 Socials:
 EMail:shees7795@gmail.com
+<br>
 X : https://x.com/shees_bhai
 
 # 💻 Tech Stack:
