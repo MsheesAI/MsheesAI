@@ -6,7 +6,7 @@
 
 ###
 
-👋 Hi, I'm Shees
+# 👋 Hi, I'm Shees
 
 🚀 AI Developer | Agentic AI Engineer | Automation Builder
 
