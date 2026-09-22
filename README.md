@@ -1,6 +1,6 @@
 <meta name="google-site-verification" content="AvJpywwFCFRGUspGCrxLSh_2f18sK63_C2qg6haoLWw" />
 
-<img src="https://img.magnific.com/premium-photo/anime-boy-working-computer_1282444-265214.jpg" width="400">
+<img src="https://img.magnific.com/premium-photo/anime-boy-working-computer_1282444-265214.jpg" width="300">
 
 
 # 👋 Hi, I'm Shees | AI consultant | AI dev
