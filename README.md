@@ -3,16 +3,16 @@
 
 ###
 
-# Hi, I'm Shees | AI consultant | AI dev
+# 👋 Hi, I'm Shees | AI consultant | AI dev
 
 AI Developer | Agentic AI Engineer | Automation Builder
 
 <br>
-<br>
-# 😇 About Me :
 
-I Build reliable AI systems as wrapper around your application weather its mobile or web apps My core goal is to build wrapped ai agents so you can use in your application
-<br>
+ # 😇 About Me 
+
+I Build reliable AI systems as wrapper around your application weather its mobile or web apps My core goal is to build 
+ai agents which you can integrate in you application
 <br>
 
 #### 🧠 Facts About Me
@@ -30,7 +30,6 @@ Ignore Keywords :-)
 Generatve AI | LLMS | NLP | Developer | Python | Lang-graph | Agentic-ai | CrewAI | Spec-Kit | AI Developer | Python | LangChain | RAG Systems  
 Building Agentic AI Applications 🚀  
 Open Source Learner | GenAI
-<br>
 <br>
 
 # 💻 Tech Stack:
