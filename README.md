@@ -8,18 +8,18 @@
 
 # 👋 Hi, I'm Shees | AI consultant
 
-🚀 AI Developer | Agentic AI Engineer | Automation Builder
+AI Developer | Agentic AI Engineer | Automation Builder
 
 # 😇 About Me :
 
 I Build reliable AI systems as wrapper around your application weather its mobile or web apps My core goal is to build wrapped ai agents so you can use in your application
 
 #### 🧠 Facts About Me
-🎓 Student & self-taught AI developer
-🤖 Building Workflows and AI systems
-⚡ Working with OpenAIagentsSDK, LangGraph, MCP servers , Backend tools
-📌 Passionate about automation, AI workflows, and LLM systems
-🚀 Goal: Build real-world AI agents that replace repetitive human tasks
+- Student & self-taught AI developer
+- Building Workflows and AI systems
+- Working with Backend tools , and SDKs
+- Passionate about AI automation and GenAI
+
 
 
 
@@ -37,7 +37,7 @@ Open Source Learner | GenAI
 
 
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
