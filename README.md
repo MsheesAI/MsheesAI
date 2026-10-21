@@ -45,7 +45,8 @@ Open Source Learner | GenAI
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MsheesAI&layout=compact&theme=tokyonight)
 
