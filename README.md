@@ -46,7 +46,3 @@ Open Source Learner | GenAI
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
-## Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MsheesAI&layout=compact&theme=tokyonight)
-
